@@ -1,0 +1,18 @@
+{
+    "inputs": [
+        {
+            "type": "EventSource",
+            "sources": [
+                {
+                    "providerName": "MyEventSource",
+                    "level": "Informational"//,
+                    //"keywords": "0x7F"
+                }
+            ]
+        }
+    ],
+    "outputs": [
+        { "type": "StdOutput" }
+    ],
+    "schemaVersion": "2016-08-11"
+}
