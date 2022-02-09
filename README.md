@@ -54,7 +54,7 @@ sealed class MyCompanyEventSource : EventSource
             "sources": [
                 {
                     "providerName": "MyEventSource",
-                    "level": "Informational"//,
+                    "level": "Informational"
                 }
             ]
         }
